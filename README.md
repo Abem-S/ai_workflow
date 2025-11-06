@@ -13,7 +13,7 @@ The goal of this project is to build a model that can predict a patient's risk o
 
 ## Files
 * `workflow_case_analysis.ipynb`: A Jupyter Notebook containing all the Python code and explanations.
-* * `ai_workflow.pdf`: A PDF document answering all case_analysics, short answer questions and diagrams
+* `ai_workflow.pdf`: A PDF document answering all case_analysics, short answer questions and diagrams
 
 ## How to Run
 1.  Clone this repository.
